@@ -1,0 +1,9 @@
+*.log
+*.retry
+*.iml
+.env
+.DS_Store
+.terraform/
+ansible.cfg
+**/basic_configuration/files/
+**/deploy_directory/files/
